@@ -2,6 +2,7 @@
 
 ## Calculator build
 - https://medium.com/@ethanryan/lets-make-a-javascript-calculator-a81186cb912f
+- https://medium.freecodecamp.org/how-to-build-an-html-calculator-app-from-scratch-using-javascript-4454b8714b98
 - https://codeburst.io/making-a-calculator-with-basic-html-css-and-javascript-part-1-1e4288f0bea1
 
 
